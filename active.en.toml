@@ -1,0 +1,5 @@
+HelloPerson = "Hello {{.Name}}"
+
+[MyUnreadEmails]
+one = "You have {{.PluralCount}} unread email."
+other = "You have {{.PluralCount}} unread emails."

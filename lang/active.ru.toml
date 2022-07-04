@@ -1,0 +1,10 @@
+[HelloPerson]
+hash = "sha1-5b49bfdad81fedaeefb224b0ffc2acc58b09cff5"
+other = "Привет, {{.Name}}"
+
+[MyUnreadEmails]
+hash = "sha1-1323748984dc463f4f33853951ec39bec6646554"
+one = "У вас есть {{.PluralCount}} непрочитанное письмо."
+few = "У вас есть {{.PluralCount}} непрочитанных письма."
+many = "У вас есть {{.PluralCount}} непрочитанных писем."
+other = "У вас есть {{.PluralCount}} непрочитанных писем."
